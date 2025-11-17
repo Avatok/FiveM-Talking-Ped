@@ -10,7 +10,7 @@ Ein individueller Talking-Ped für FiveM -- Deutsch & Englisch
 
 ------------------------------------------------------------------------
 
-## 🇩🇪 Deutsch
+## Deutsch
 
 ### 🧍 Individueller FiveM Talking Ped
 
@@ -65,7 +65,7 @@ Liste aller möglichen Ped-Modelle:\
 
 ------------------------------------------------------------------------
 
-## 🇬🇧 English
+## English
 
 ### 🧍 Individual FiveM Talking Ped
 
