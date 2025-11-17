@@ -4,11 +4,9 @@ Ein individueller Talking-Ped für FiveM -- Deutsch & Englisch
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 ![FiveM](https://img.shields.io/badge/FiveM-Resource-orange?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Deutsch-English-blue?style=for-the-badge)
 ![Compatible](https://img.shields.io/badge/Compatible-FiveM%20Servers-green?style=for-the-badge)
-:::
 
 ------------------------------------------------------------------------
 
