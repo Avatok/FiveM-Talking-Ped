@@ -119,12 +119,6 @@ Full ped model list:\
 
 ------------------------------------------------------------------------
 
-## 🖼️ Beispielbild (Optional)
-
-    ![Preview](./preview.png)
-
-------------------------------------------------------------------------
-
 ## 📄 Lizenz
 
 Dieses Projekt darf frei benutzt, bearbeitet und erweitert werden.\
